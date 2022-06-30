@@ -14,5 +14,10 @@ django-admin startproject premiosplatziapp
 <img src="https://drive.google.com/uc?export=download&id=19zENNjV3v9lDjHMktwtM1Dj0PW2MLk2A" width="700" height="700" />
 </p>
 
+3. **Descripción de la carpeta**
+ 
+<p align="center">
 
-https://drive.google.com/file/d/19zENNjV3v9lDjHMktwtM1Dj0PW2MLk2A/view?usp=sharing
+<img src="https://drive.google.com/uc?export=download&id=1bKJtiVTzYKz3kR0vJrGz-TIh6e4WBcjh" width="700" height="700" />
+</p>
+
