@@ -22,6 +22,7 @@ Si nos dirigimos al localhost ` 127.0.0.1:8000 ` en el navegador aparece este en
 <p align="center">
 
 <img src="https://drive.google.com/uc?export=download&id=1QQsWfI2_tfQQoKzANQeCWka7I0N3i9h5" width="700" height="700"/>
+
 </p>
 
 1. #### ***Documentacion***
