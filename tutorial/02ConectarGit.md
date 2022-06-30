@@ -12,6 +12,11 @@ git branch -M main
 ```
 touch .gitignore
 ```
+Otra forma de crear gitignore
+```
+echo "venv/" > .gitignore
+```
+
 4. **Incluir en este archivo la carpeta virutal**
 ```
 venv/
