@@ -11,7 +11,7 @@ django-admin startproject premiosplatziapp
 
 <p align="center">
 
-<img src="https://drive.google.com/uc?export=download&id=1dumNv9OoMyIZs2hTX9tKUF40Bqas1gAy" width="700" height="700" />
+<kbd><img src="https://drive.google.com/uc?export=download&id=1dumNv9OoMyIZs2hTX9tKUF40Bqas1gAy" width="700" height="700" /></kbd>
 
 </p>
 
