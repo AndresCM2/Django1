@@ -12,6 +12,3 @@ django-admin startproject premiosplatziapp
 
 
 
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/qKf2EwInKbA">
-</iframe>
