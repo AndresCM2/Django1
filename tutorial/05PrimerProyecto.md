@@ -40,3 +40,10 @@ from . import views
 urlpatterns=[
     path('',views.index,name='index')
 ```
+Se nos dirigimos al localhost de la ruta `/polls` aparecerá el mensaje de hola mundo.   
+<p align="center">
+
+<img src="https://drive.google.com/uc?export=download&id=1U8ObzPFQXSGhBSNSWjGFqdXpoov5PyGE" width="500" height="500" />
+
+</p>
+
