@@ -9,10 +9,10 @@ django-admin startproject premiosplatziapp
 2. **Estructura de un proyecto en django**
 
 
-<center>
+<p align="center"><center>
 
 <img src="https://drive.google.com/uc?export=download&id=1dumNv9OoMyIZs2hTX9tKUF40Bqas1gAy" width="100" height="100"/>
 
-</center>
+</p></center>
 
 
